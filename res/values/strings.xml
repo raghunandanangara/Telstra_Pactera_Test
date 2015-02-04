@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Telstra_Test</string>
+    <string name="refresh_buton">Refresh</string>
+    <string name="row_title">Title</string>
+
+</resources>
